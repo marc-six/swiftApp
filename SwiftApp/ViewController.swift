@@ -3,7 +3,7 @@
 //  SwiftApp
 //
 //  Created by Marc Six on 5/13/17.
-//  Copyright © 2017 Marc Six. All rights reserved.
+//  Copyright © 2017 Marc Six. All rights reserved..
 //
 
 import UIKit
